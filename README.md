@@ -9,4 +9,4 @@ ChallengeApplication.java ayağa kaldırıldıktan sonra localhost:8080 <br>
 - Güncelleme => /api/workers/update
 - Listeleme => /api/workers/getall
 
-![swagger remi](https://github.com/hasannsoykan/Challenge_Company_Worker/blob/main/workers-swagger.png)
+![swagger remi](https://github.com/hasannsoykan/Challenge_Company_Worker/blob/main/swagger-workers.png)
