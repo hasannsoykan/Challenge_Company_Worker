@@ -30,7 +30,7 @@ public class Worker {
 	@Column(name = "last_name")
 	private String lastName;
 
-	@Column(name = "natioanal_identity")
+	@Column(name = "natioanal_identity", unique=true)
 	private String nationalIdentity;
 
 	@ManyToOne()
