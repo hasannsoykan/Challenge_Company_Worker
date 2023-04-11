@@ -1,7 +1,7 @@
 # Challenge 
 
 - Database olarak PostgreSQL kullanıldı. Şirket ve Çalışan için iki tablo oluşturuldu. <br>
-Uygulamada ekleme,silme,güncelleme,listeleme gibi servisler yer alıyor. <br>
+Uygulamada ekleme, silme, güncelleme, listeleme gibi servisler yer alıyor. <br>
 Swagger ve Postman kullanılarak testler yapıldı.<br>
 ChallengeApplication.java ayağa kaldırıldıktan sonra;
 ##### *Uygulama 8080 portunda çalışmaktadır*  <br>
