@@ -10,7 +10,7 @@ ChallengeApplication.java ayağa kaldırıldıktan sonra;
 - Güncelleme => /api/workers/update
 - Listeleme => /api/workers/getall
 
-### Json formatında Challenge- documentation.json isimli dökümanda swagger üzerinden alınıp eklenmiştir.<br>
+### Json formatında "Challenge-documentation.json" isimli dökümanda swagger üzerinden alınıp eklenmiştir.<br>
 <br>
 
 ![swagger resmi](https://github.com/hasannsoykan/Challenge_Company_Worker/blob/main/swagger-workers.png)
